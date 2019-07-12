@@ -1,0 +1,6 @@
+# dev
+contracts/build
+
+# local
+.vscode/
+.DS_Store
